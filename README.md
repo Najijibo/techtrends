@@ -99,5 +99,3 @@ Check the webapp running from VM private ip and node port exposed, i.e, `192.168
 
 ![Webapp Running](screenshots/k8s-nodeport.png)
 
-##test
-
